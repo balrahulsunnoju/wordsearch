@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/tuXQN6wb)
-# Assignment: Word Search
+Word Search
 
 ![Wind Chill Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wordsearch.svg/632px-Wordsearch.svg.png)
 
@@ -78,8 +77,4 @@ $ go run ./cmd/wordsearch i puzzle2.txt
 
 You may use `./gen-puzzle.sh` to create random puzzles of any size.
 
-## Submission
 
-- Commit and push your working code to your GIT repository.
-- Ensure all tests pass otherwise you may receive no credit.
-- Submit the URL to the commit to the assignment on Canvas
